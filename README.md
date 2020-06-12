@@ -1,10 +1,11 @@
-# 2020-lfd
-2020년 봄학기 서울대 데이터기반학습 Python 과제 
+Semester: Spring 2020
+Project Type: Machine Learing with python
+Class Title: Learning From Data(데이터기반학습)
 
-## Project 1: Stock market prediction with MLP
+### Project 1: Stock market prediction with MLP
 
-## Project 2: Stock market prediction with HMM
+### Project 2: Stock market prediction with HMM
 
-## Project 3: Horserace prediction with SVM
+### Project 3: Horserace prediction with SVM
 
-## Project 4: Reinforcement Learning for Stock trading
+### Project 4: Reinforcement Learning for Stock trading
