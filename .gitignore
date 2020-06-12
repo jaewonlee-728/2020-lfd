@@ -1,0 +1,16 @@
+2019/
+*.pyc
+*.xml
+*.iml
+*/.idea
+.DS_Store
+Lab1/
+Lab2/
+Lab3/
+Lab4/
+Lab5/
+Lab6/
+*.docx
+*.pptx
+*.mp4
+*.zip
