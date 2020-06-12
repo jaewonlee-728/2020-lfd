@@ -1,6 +1,6 @@
-Semester: Spring 2020
-Project Type: Machine Learing with python
-Class Title: Learning From Data(데이터기반학습)
+> Semester: Spring 2020</br>
+> Project Type: Machine Learing with python</br>
+> Class Title: Learning From Data(데이터기반학습)
 
 ### Project 1: Stock market prediction with MLP
 
