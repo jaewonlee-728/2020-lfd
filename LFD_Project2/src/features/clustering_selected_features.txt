@@ -1,0 +1,2 @@
+10, 23.81191426735352
+EUR_Open, BrentOil_volatility_kcw, USD_High, Platinum_volatility_bbm, Gold_trend_ichimoku_b, USD_trend_psar_up, USD_volatility_bbl, Platinum_volatility_kch, Platinum_volatility_bbl, Silver_volatility_kcp
